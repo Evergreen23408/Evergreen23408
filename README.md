@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jonathan</h1>
 <h3 align="center">A passionate backend developer working in Australia</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, Docker and Frontend Development**
+- 🌱 I’m currently learning **Spring Boot, Microservices, Docker and React**
 
 - 💬 Ask me about **Django, Java or MS SQL Server**
 
